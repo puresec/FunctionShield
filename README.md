@@ -183,7 +183,7 @@ FunctionShield is also provided as a middleware for the (MIDDY.JS)[https://githu
 
 ## Notes ##
 
-* When using the 'outbound-connectivity' restriction, traffic to AWS cloud & Google cloud resources will still be enabled, in order to avoid disruption to normal function operation
+* When using the 'outbound-connectivity' restriction, traffic to the cloud enviroment (AWS cloud or Google cloud) resources will still be enabled, in order to avoid disruption to normal function operation
 * Logging from FunctionShield is done asynchronously to CloudWatch or Google cloud logs, and does not add latency
 * Overall latency of FunctionShield is extremely low, and is expected to be under 1 millisecond.
 * Load time for cold-starts was measured around 20ms
