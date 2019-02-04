@@ -1,3 +1,5 @@
+<img src="https://www.puresec.io/hubfs/fshield-logo-4.png" style="width: 200px;"/>
+
 # FunctionShield &nbsp; [![FunctionShieldInside](https://www.puresec.io/hubfs/fshield-badge.svg)](https://github.com/puresec/FunctionShield/)
 
 
