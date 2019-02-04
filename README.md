@@ -1,4 +1,4 @@
-# FunctionShield &nbsp; [![FunctionShieldInside](https://www.puresec.io/hubfs/fshield-badge.svg)](https://www.puresec.io/function-shield)
+# FunctionShield &nbsp; [![FunctionShieldInside](https://www.puresec.io/hubfs/fshield-badge.svg)](https://github.com/puresec/FunctionShield/)
 
 
 A Serverless Security Library for Developers. Regain Control Over Your AWS Lambda &amp; Google Cloud Functions Runtimes. 
@@ -235,3 +235,8 @@ If you want to test FunctionShield, we have prepared some code snippets, which y
 * Node.js - [TEST SNIPPET](https://gist.github.com/oorryy/cb3179adb80ac50e4014376bd1f42a7f)
 * Python - [TEST SNIPPET](https://gist.github.com/oorryy/2a473da57210732585895cd55df47a26)
 * Java - [TEST SNIPPET](https://gist.github.com/oorryy/42d17b8aa3d81e512666d83c5bea9ab9)
+
+## FunctionShield Badge ##
+```markdown
+[![FunctionShieldInside](https://www.puresec.io/hubfs/fshield-badge.svg)](https://www.puresec.io/function-shield)
+```
