@@ -6,7 +6,9 @@
 # FunctionShield &nbsp; [![FunctionShieldInside](https://www.puresec.io/hubfs/fshield-badge.svg)](https://github.com/puresec/FunctionShield/)
 
 
-A Serverless Security Library for Developers. Regain Control Over Your AWS Lambda &amp; Google Cloud Functions Runtimes. 
+A Serverless Security Library for Developers. Regain Control Over Your AWS Lambda &amp; Google Cloud Functions Runtimes.
+
+Created & maintained by [PureSec](https://www.puresec.io/)
 
 ## About FunctionShield ##
 FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes by addressing 4 common use cases:
