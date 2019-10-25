@@ -2,6 +2,8 @@
     <img src="https://github.com/puresec/FunctionShield/blob/master/fshield.png" /> 
 </p>
 
+## FunctionShield is no longer actively maintained ##
+We appreciate all the great feedback that we got from the community as part of this project.  We've incorporated into our commercial product, [Prisma Cloud (https://www.paloaltonetworks.com/cloud-security].  FunctionShield itself is no longer being maintained and we do not recommend using it for production scenarios.  This repo continues to be available as a reference only.
 
 # FunctionShield &nbsp; [![FunctionShieldInside](https://www.puresec.io/hubfs/fshield-badge.svg)](https://github.com/puresec/FunctionShield/)
 
