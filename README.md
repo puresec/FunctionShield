@@ -253,3 +253,6 @@ If you want to test FunctionShield, we have prepared some code snippets, which y
 Creative Commons Attribution No Derivatives 4.0 International
 
 [![CC-BY-ND-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## Security acknowledgments
+Special thanks to Tomer Zait [(@realgam3)](https://twitter.com/realgam3) for discovering an issue that allows bypass of "read_write_tmp" blocking functionality.  This problem is corrected in the final build of FunctionShield.
